@@ -1,0 +1,23 @@
+element.style {
+}
+
+.body {
+  font-family: veranda;
+  text-align: center;
+  background-color: black;
+  color: white;
+  display: block;
+  margin: 8px;
+}
+
+
+.h2 {
+
+.cta {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.footer {
+    text-align: right;
+}
